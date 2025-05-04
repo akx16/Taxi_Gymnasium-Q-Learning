@@ -1,1 +1,1 @@
-# Taxi_Gymnasium-Q-Learning
+# Taxi_Gymnasium_Q-Learning
